@@ -3,7 +3,6 @@ from tkinter import *
 root = Tk()
 
 root.title("TermCord")
-
 root.geometry("1280x720")
 
 # Logins 
