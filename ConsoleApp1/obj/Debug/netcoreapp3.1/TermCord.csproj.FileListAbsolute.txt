@@ -1,0 +1,3 @@
+C:\Users\Admin\Source\Repos\ConsoleApp1\obj\Debug\netcoreapp3.1\TermCord.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\ConsoleApp1\obj\Debug\netcoreapp3.1\TermCord.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\ConsoleApp1\obj\Debug\netcoreapp3.1\TermCord.csproj.CoreCompileInputs.cache
